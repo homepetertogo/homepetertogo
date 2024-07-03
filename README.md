@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @homepetertogo
-- 👀 I’m interested in reading my comaopny's codebase
+- 👀 I’m interested in reading my company's codebase
 - 🌱 I’m currently learning my new job role
 
 <!---
